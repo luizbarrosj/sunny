@@ -1,3 +1,3 @@
 # sunny
 
-##Sistema de controle rh e \Controle de vendas
+Sistema de controle rh e Controle de vendas
